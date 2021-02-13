@@ -6,7 +6,7 @@ Back end for an e-commerce site using express.js, MySQL2 and Sequelize.
 Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
-[Demo Viedo](https://drive.google.com/file/d/1kR5lw5sJlITELfoM9XzxWWNWmD4t85m_/view?usp=sharing)
+[Demo Viedo](https://drive.google.com/file/d/18qaSySSHiiC3gGtLPi46Kcv5FJ43JTvr/view?usp=sharing)
 
 ![alt text](./assets/images/ScreenShot.jpg)
 
